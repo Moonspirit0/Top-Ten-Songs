@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-image: url(Lanterns.jpg);
+    background-size:auto;
+
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+}
+
+audio {
+    margin: 10px;
+    filter: saturate(70%) sepia(25%);
+}
+
+h1 {
+    color: coral;
+}
+
+h2 {
+    color: crimson;
+}
+
+a:link{
+    color:darkgoldenrod;
+}
+
+a:visited{
+    color:darkkhaki;
+}
+
+a:hover{
+    color:firebrick;
+    background-color:bisque; 
+}
+
+a:active{
+    color:bisque;
+}
